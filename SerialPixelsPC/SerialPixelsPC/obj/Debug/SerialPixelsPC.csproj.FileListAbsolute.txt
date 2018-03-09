@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\bin\Debug\SerialPixelsPC.exe.config
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\bin\Debug\SerialPixelsPC.exe
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\bin\Debug\SerialPixelsPC.pdb
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.csprojResolveAssemblyReference.cache
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.Form1.resources
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.Properties.Resources.resources
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.exe
+C:\Users\Jason\source\repos\SerialPixelsPC\SerialPixelsPC\obj\Debug\SerialPixelsPC.pdb
